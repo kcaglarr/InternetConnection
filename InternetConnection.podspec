@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
 s.name             = 'InternetConnection'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'Internetconnecton checks your internet.'
 
 s.description      = <<-DESC
-If you want to know your internet connection it is for you!
+If you want to know your internet connection status it is for you!
 DESC
 
 s.homepage         = 'https://github.com/kcaglarr/InternetConnection'
